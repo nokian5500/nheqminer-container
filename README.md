@@ -1,8 +1,8 @@
-### Equihash CPU&GPU Miner container based on Ubuntu 14.04
+## Equihash CPU&GPU Miner container based on Ubuntu 14.04
 
 Miner for Nicehash pool (Build CPU_XENONCAT).
 
-## Usage:
+### Usage:
 
 Clone
 
@@ -31,7 +31,7 @@ docker run --d rhamdeew/nheqminer
 ```
 *Not recommended - run slow, need remove used containers*
 
-## Options
+### Options
 
 You can limit container cpu usage with standart Docker options - **cpuset-cpus** and **cpu-shares**
 

@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Karaf :: Util
+
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Felix Utils (http://felix.apache.org/org.apache.felix.utils/) org.apache.felix:org.apache.felix.utils:jar:1.4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
